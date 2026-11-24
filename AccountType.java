@@ -2,6 +2,11 @@ import java.math.BigDecimal;
 import java.util.Locale;
 
 /**
+ * @author AnhNX
+ * @Description: Class AccountType: thuoc tinh private, constructor, getter/setter co kiem tra rang buoc (interestRate > 0), toString/screenString
+ **/
+
+/**
  * ============================================================
  *  CLASS: AccountType  (Loại tài khoản: Savings, Checking, ...)
  * ============================================================

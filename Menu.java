@@ -1,7 +1,10 @@
 import java.util.ArrayList;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
-
+/**
+ * @author AnhNX, VinhVT
+ * @Description: Tien ich nhap lieu tu ban phim (AnhNX: readLine/readInt/readYesNo; VinhVT: readString/readDouble/int_getChoice/ref_getChoice)
+ */
 /**
  * ============================================================
  *  CLASS: Menu  (Tiện ích nhập liệu từ bàn phím)
